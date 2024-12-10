@@ -58,7 +58,7 @@ Este programa permite a los usuarios seleccionar una moneda de origen y una mone
 
 4. Manejo de errores para entradas inválidas
 
-##Funcionalidad del conversor de monedas
+## Funcionalidad del conversor de monedas
 
 
 - `Funcionalidad 1`: Tiene una conexión con la API de la página Exchange Rates para sustrear el valor del tipo de moneda.
@@ -174,10 +174,9 @@ La tasa de conversion para el día de hoy de: 1 KYD = 9.2563 GTQ
 Ingrese la cantidad que desea convertir de KYD: 
 500
 500.0 KYD = 4628.15 GTQ
-## Requisitos
 ````
 
-5. La opción numero 8 del menu filiza la aplicación.
+5. La opción numero 8 del menu finaliza la ejecución de la aplicación.
 
 
 ## Aplicaciones, API Y extension utilizaa
