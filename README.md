@@ -181,7 +181,7 @@ Ingrese la cantidad que desea convertir de KYD:
 5. La opción numero 8 del menu finaliza la ejecución de la aplicación.
 
 
-## Aplicaciones, API Y extension utilizaa
+## Aplicaciones, API y extension utilizada
 - IntelliJ IDEA
 - Java JDK 19
 - Gson 2.1.1
