@@ -14,7 +14,8 @@ Este programa permite a los usuarios seleccionar una moneda de origen y una mone
 
 1. Selección de monedas comunes de origen y destino.
 2. Conversión entre múltiples monedas que puedes seleccionar en el siguiente listado:
-   
+
+```plaintext   
     AED	Dírham de los Emiratos Árabes Unidos        AFN	Afgano afgano
     ALL	Lek albanés                                 AMD	Dram armenio
     ANG	Florín de las Antillas Neerlandesas         AOA	Kwanza angoleño
@@ -55,6 +56,7 @@ Este programa permite a los usuarios seleccionar una moneda de origen y una mone
     KID	Dólar de Kiribati                           KMF	Franco comorense
     KRW	Won surcoreano                              KWD	Dinar kuwaití
     KYD	Dólar de las Islas Caimán                   KZT	Tenge kazajo
+````
 
 4. Manejo de errores para entradas inválidas
 
